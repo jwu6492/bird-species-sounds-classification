@@ -7,3 +7,5 @@ keras
 opencv-python
 pillow
 scikit-image
+librosa
+
